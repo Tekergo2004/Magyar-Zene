@@ -1,0 +1,10 @@
+.img {
+    height: 120px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+body {
+    background-color: #343a40;
+    color: #007bff;
+}
