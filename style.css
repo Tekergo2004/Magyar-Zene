@@ -32,27 +32,34 @@ table a {
 table a:hover{
     filter: invert(100%);
     transition-duration: 1.3s;
+    text-decoration: none;
 }
 
 li a {
     color:#ffc107;
+    text-decoration: none;
 }
 
 li a:hover{
     filter: invert(100%);
     transition-duration: 1.3s;
+    text-decoration: none;
 }
 
 html{
     scroll-behavior: smooth;
 }
 
-.iframe1 {
-    width: calc(100vw/2.3);
-    height: calc(100vw/16*4);
+.fmarg {
+    margin-top: 100px;
+    padding: 100px;
 }
 
-.btn:hover{
-    background-color: invert(100%);
-    transition-duration: 1.3s;
+.nagyobb {
+    font-size: x-large;
+}
+
+.kozepre {
+    margin:auto;
+    width: 100%;
 }
