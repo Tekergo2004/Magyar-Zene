@@ -14,6 +14,7 @@
 body {
     background-color: #343a40;
     color: #ffc107;
+    overflow-x: hidden;
 }
 
 
@@ -56,7 +57,6 @@ html{
 
 .fmarg {
     margin-top: 100px;
-    padding: 100px;
 }
 
 .nagyobb {
